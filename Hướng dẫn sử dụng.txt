@@ -1,0 +1,18 @@
+Chào mừng thầy cô đến với đồ án của nhóm 2 lớp 20clc11 ^^
+Sau đây là một số lưu ý khi sử dụng:
+- Trong phần Login có thể login vào staff hay student tùy thích
+- Tài khoản của staff:
++ Tên tài khoản: 1
++ Mật khẩu: 12345678
+- Tài khoản của student:
++ Tên tài khoản: 20127013
++ Mật khẩu: 24042002
+- Một số lưu ý khi sử dụng giao diện:
++ Dùng các phím w, mũi tên hướng lên để di chuyển lên trong menu giao diện
++ Dùng các phím s, mũi tên hướng xuống để di chuyển xuống trong menu giao diện
++ Dùng phím ESC để trở về giao diện trước đó
++ Vì thời gian để đăng ký và hủy đăng ký khóa học đã được chọn sẵn là từ ngày 25/4/2021 đến ngày 15/5/2021 (có thể cài lại trong phần của staff) nên nếu thầy cô không muốn chỉnh ở phần staff thì có thể chỉnh date của máy tính
++ Khóa học được chọn hiện hành là kì 3 năm học 2021 - thầy cô có thể chỉnh lại rất dễ dàng trong mục default time của phần staff
++ Giao diện khi xuất thông tin trên console còn khá thô sơ xin các thầy cô thông cảm
++ Khi xuất file học sinh của course chỉ xuất được 1 file với tên output.csv
+- Cảm ơn thầy cô đã đọc hết hướng dẫn của nhóm <3

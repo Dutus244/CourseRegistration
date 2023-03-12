@@ -1,0 +1,246 @@
+﻿  Help.cpp
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(6,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(7,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(18,67): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(44,67): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(70,68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(96,69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(275,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Help.cpp(297,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Input.cpp
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(11,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(12,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(26,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(33,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(40,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(51,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(69,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(87,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(101,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(207,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(210,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(251,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(578,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(585,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(592,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(599,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(608,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(617,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(626,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(634,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(643,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(651,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(673,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(678,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(729,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(734,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(869,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(874,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(881,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(882,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(891,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(898,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(905,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(914,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(923,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(932,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(945,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(946,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(1031,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Input.cpp(1036,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  Read.cpp
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(9,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(23,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(30,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(37,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(44,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(53,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(62,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(71,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(82,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(96,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(103,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(110,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(117,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(126,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(135,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(144,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(155,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(163,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(172,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(181,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(190,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(199,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(210,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(218,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(227,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(236,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(245,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(254,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(265,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(273,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(282,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(291,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(300,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(309,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(320,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(328,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(337,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(346,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(355,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(364,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(375,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(383,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(392,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(401,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(410,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(419,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(431,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(438,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(445,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(452,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(461,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(470,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(479,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(487,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(496,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Read.cpp(504,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Save.cpp
+  Staff.cpp
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(43,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(44,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(104,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(105,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(275,36): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(452,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(501,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(509,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(517,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(525,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(533,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(541,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(602,44): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(602,79): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(602,143): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(602,176): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(613,44): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(613,79): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(613,143): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(613,176): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1401,35): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1526,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1578,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1586,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1594,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1602,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1610,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1618,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1677,44): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1677,79): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1677,143): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1677,176): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1688,44): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1688,79): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1688,143): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1688,176): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1818,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1940,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(1947,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2006,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2011,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2207,29): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2212,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2230,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2299,29): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2304,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2322,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2475,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(2466,12): warning C4101: 'pHead_cla': unreferenced local variable
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3657,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3662,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3801,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3806,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3848,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3853,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3895,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3900,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3937,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3942,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3979,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(3984,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4137,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4142,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4467,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4472,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4522,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4548,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4549,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4733,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4738,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4875,29): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4880,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(4898,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5015,29): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5020,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5038,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5065,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5066,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5228,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5389,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5394,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5528,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5651,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5662,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(5669,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(6055,12): warning C4101: 'pHead_cou': unreferenced local variable
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(6158,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(6196,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(6197,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(6219,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(6220,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Staff.cpp(6267,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Student.cpp
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(18,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(48,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(49,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(359,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(364,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(384,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(392,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(400,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(408,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(416,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(424,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(457,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(458,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(776,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(779,25): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(882,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(887,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(900,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(901,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1021,185): warning C4066: characters beyond first in wide-character constant ignored
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1108,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1113,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1131,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1139,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1147,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1155,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1163,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1171,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1210,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1211,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1433,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1613,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1618,32): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1631,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Student.cpp(1632,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Time.cpp
+D:\Study\Đồ án\Project_KTLT\Project\Time.cpp(19,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Time.cpp(26,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Time.cpp(33,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Time.cpp(40,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Time.cpp(47,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Đồ án\Project_KTLT\Project\Time.cpp(54,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project.vcxproj -> D:\Study\Đồ án\Project_KTLT\x64\Debug\Project.exe
